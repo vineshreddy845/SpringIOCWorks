@@ -1,2 +1,8 @@
-package org.example;public class sim {
-}
+package org.example;
+
+    public interface sim {
+        void calling();
+        void data();
+    }
+
+
